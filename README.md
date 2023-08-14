@@ -12,8 +12,8 @@ Dəyər: s = " 2-1 + 2 "<br>
 Nəticə: 3
 
 ### Nümunə 3:
-Dəyər: s = "(1+(4+5+2)-3)+(6+8)"<br>
-Nəticə: 23
+Dəyər: s = "(1+(4+5+2)*3)-(6+8)"<br>
+Nəticə: 20
 
 
 Githubda public repository yaradıb, CV ilə birlikdə linki göndərin
